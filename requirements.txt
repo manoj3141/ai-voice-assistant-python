@@ -1,0 +1,9 @@
+pygame
+SpeechRecognition
+pyttsx3
+pyautogui
+requests
+wikipedia
+pywhatkit
+PyGetWindow
+selenium
